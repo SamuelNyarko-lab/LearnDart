@@ -84,5 +84,10 @@
   print('Time Taken: $timeTaken'); */
 
 void main() {
+  int age = 19
+;
 
+  var checkAge = (age >= 13 && age <= 19) ? "Teenager" : 'Not a Teenager';
+
+  print(checkAge);
 }
