@@ -108,7 +108,6 @@ Write a function in Dart called calculateArea that calculates the area of a rect
 
  */
 
-import 'dart:math';
 
 void main() {
 
